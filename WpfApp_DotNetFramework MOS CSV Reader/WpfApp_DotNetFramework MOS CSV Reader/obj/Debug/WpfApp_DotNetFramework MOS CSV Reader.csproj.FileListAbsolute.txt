@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\bin\Debug\WpfApp_DotNetFramework MOS CSV Reader.exe.config
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\bin\Debug\WpfApp_DotNetFramework MOS CSV Reader.exe
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\bin\Debug\WpfApp_DotNetFramework MOS CSV Reader.pdb
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\WpfApp_DotNetFramework MOS CSV Reader.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\WpfApp_DotNetFramework MOS CSV Reader_MarkupCompile.cache
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\WpfApp_DotNetFramework MOS CSV Reader_MarkupCompile.lref
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\WpfApp_DotNetFramework MOS CSV Reader.g.resources
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\WpfApp_DotNetFramework_MOS_CSV_Reader.Properties.Resources.resources
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\WpfApp_DotNetFramework MOS CSV Reader.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\WpfApp_DotNetFramework MOS CSV Reader.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\WpfApp_DotNetFramework MOS CSV Reader.exe
+C:\Users\User\source\repos\WpfApp_DotNetFramework MOS CSV Reader\WpfApp_DotNetFramework MOS CSV Reader\obj\Debug\WpfApp_DotNetFramework MOS CSV Reader.pdb
